@@ -4,6 +4,8 @@
 
 Soy un alumno del MFP de la ULL.
 
+![adrianrsac stats](https://github-readme-stats.vercel.app/api?username=adrianrsac&show_icons=true&locale=en)
+
 ### Aquí te dejo una lista de cosas que me gustan y que no:
 
 Cosas que me gustan :+1: | Cosas que no me gustan :-1:
@@ -12,11 +14,11 @@ Reir | Marear
 Leer | Perder el tiempo durmiendo
 Comer | No tener tiempo libre
 
-Aquí te dejo una lista de chistes seleccionados por la máquina!
-
+Aquí te dejo una lista de chistes seleccionados por la máquina...
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-¡Espero que sean buenos! :smile:
+...para que te eches unas risas! :smile:
+
 
 
 <!--
