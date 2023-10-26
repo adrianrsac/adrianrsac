@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+## Mi nombre es Adrián R.
+
+## Aquí te dejo una lista de cosas que me gustan y que no:
+
+Cosas que me gustan :+1: | Cosas que no me gustan :-1:
+--------------------|-----------------------
+Reir | Marear
+Leer | Perder el tiempo durmiendo
+Comer | No tener tiempo libre
+
 <!--
 **adrianrsac/adrianrsac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
