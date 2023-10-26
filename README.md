@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi mate 👋
 
 ### Mi nombre es Adrián R.
+
+Soy un alumno del MFP de la ULL.
 
 ### Aquí te dejo una lista de cosas que me gustan y que no:
 
