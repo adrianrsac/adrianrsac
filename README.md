@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
-## Mi nombre es Adrián R.
+### Mi nombre es Adrián R.
 
-## Aquí te dejo una lista de cosas que me gustan y que no:
+### Aquí te dejo una lista de cosas que me gustan y que no:
 
 Cosas que me gustan :+1: | Cosas que no me gustan :-1:
 --------------------|-----------------------
