@@ -15,9 +15,11 @@ Leer | Perder el tiempo durmiendo
 Comer | No tener tiempo libre
 
 Aquí te dejo una lista de chistes seleccionados por la máquina...
+...para que te eches unas risas! :smile:
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-...para que te eches unas risas! :smile:
+
 
 
 
